@@ -66,9 +66,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Hanifisetiawan/Hanifisetiawan/output/snake.svg" alt="Snake animation" />
-
-###
