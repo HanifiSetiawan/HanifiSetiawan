@@ -9,6 +9,8 @@
 
 ###
 
+<br clear="both">
+
 <img align="right" height="150" src="https://cdn.discordapp.com/attachments/944097004122939474/1378599486313730108/Z.png?ex=68451952&is=6843c7d2&hm=fdb78255de138016ddd92c793734748cf7a92d6cc495277269f5c15c9bf8bb6a&"  />
 
 ###
@@ -39,6 +41,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
 </div>
 
 ###
@@ -60,5 +64,11 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Hanifisetiawan/Hanifisetiawan/output/snake.svg" alt="Snake animation" />
 
 ###
