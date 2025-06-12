@@ -11,7 +11,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://cdn.discordapp.com/attachments/944097004122939474/1378599486313730108/Z.png?ex=68451952&is=6843c7d2&hm=fdb78255de138016ddd92c793734748cf7a92d6cc495277269f5c15c9bf8bb6a&"  />
+<img align="right" height="150" src="https://cdn.discordapp.com/attachments/944097004122939474/1378599486313730108/Z.png?ex=684bb0d2&is=684a5f52&hm=5a510b60aedacf369f915c64b7cf27cc9bc951759bca5a0dd79910452d8ee66f&"  />
 
 ###
 
